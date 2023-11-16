@@ -9,8 +9,8 @@
 
 <channel>
 	<title>moondrifterstudios &#8211; Moondrifter Studios</title>
-	<atom:link href="https://github.com/Moondrifterstudios/site/author/moondrifterstudios/feed/" rel="self" type="application/rss+xml" />
-	<link>https://github.com/Moondrifterstudios/site/</link>
+	<atom:link href="https://http://moondrifterstudios.github.io/site/author/moondrifterstudios/feed/" rel="self" type="application/rss+xml" />
+	<link>https://http://moondrifterstudios.github.io/site/</link>
 	<description>Open for hire!</description>
 	<lastBuildDate>Sun, 12 Nov 2023 18:50:40 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,28 +21,28 @@
 	<generator>https://wordpress.org/?v=6.4.1</generator>
 
 <image>
-	<url>https://github.com/Moondrifterstudios/site/wp-content/uploads/2023/11/MixerMoon-edited-150x150.png</url>
+	<url>https://http://moondrifterstudios.github.io/site/wp-content/uploads/2023/11/MixerMoon-edited-150x150.png</url>
 	<title>moondrifterstudios &#8211; Moondrifter Studios</title>
-	<link>https://github.com/Moondrifterstudios/site/</link>
+	<link>https://http://moondrifterstudios.github.io/site/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Hello world!</title>
-		<link>https://github.com/Moondrifterstudios/site/2023/11/12/hello-world/</link>
-					<comments>https://github.com/Moondrifterstudios/site/2023/11/12/hello-world/#comments</comments>
+		<link>https://http://moondrifterstudios.github.io/site/2023/11/12/hello-world/</link>
+					<comments>https://http://moondrifterstudios.github.io/site/2023/11/12/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[moondrifterstudios]]></dc:creator>
 		<pubDate>Sun, 12 Nov 2023 18:50:40 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://github.com/Moondrifterstudios/site/?p=1</guid>
+		<guid isPermaLink="false">https://http://moondrifterstudios.github.io/site/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://github.com/Moondrifterstudios/site/2023/11/12/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://http://moondrifterstudios.github.io/site/2023/11/12/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
